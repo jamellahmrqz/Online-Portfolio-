@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Online Portfolio</title>
+    <style>
+      body { 
+        font-family: sans-serif;
+        line-height: 1.6;
+        background-color: pink;
+        color: blue rgb (55,0,255);
+        }
+      header {
+        text-align: center;
+        margin: 5;
+        }
+      section {
+        margin-bottom: 5;
+        }
+    </style>
+  </head>
+    <header> 
+        <h1>Jah's portfolio</h1>
+        <img src="c:\Users\user\Desktop\Jah\Jamellah.jpg"width="200" 
+        style=""float:rigth;margin-left:1rem;>
+            <h1>Welcome to my Portfolio!</h>
+        </section>
+        <section id="about">
+            <h4>About Me</h4>
+            <p> Hello! I'm Jamellah Andrea Marquez, you can call me Jam or Jah for short. I'm 16 years old. 
+                I'm an only child and I live with my mom and grandmother.</p>
+            <p> I love dancing, learning choreos, and playing random games on a daily basis.</p>
+            <p> I like travelling everywhere. I like making people laugh. I'm just a loud girly.</p>
+            <p> I love KPOP. I love learning their choreos and they brighten up my days.</p>
+        </section>
+        <section id="Kpop Stanlist">
+            <h4>Kpop Stanlist</h4>
+            <ul>
+                <li>
+                    <h2>GOT7</h2>
+                    <p>1.Youngjae</p>
+                </li>
+                <li>
+                    <h4>SEVENTEEN</h4>
+                    <p> 1.Jun</p>
+                    <p> 2. Wonwoo</p>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <h4>UNIS </h4>
+                    <p>1. Gehlee </p>
+                </li>
+            </ul>
+        </section>
+        <section id="Series">
+            <h4>Movies</h4>
+            <ul>
+                <li>
+                    <h4>Movies</h4>
+                    <p>1. 17 Again</p>
+                    <p>2. Bridge to Terabithia</p>
+                    <p>3. A Christmas Carol</p>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <h4>Series</h4>
+                    <p>1. High School Musical</p>
+                    <p>2. Ang Mutya ng Section E</p>
+                    <p>3. Dahmer: Monster</p>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <h4>Kdrama</h4>
+                    <p>1. Love and Wish</p>
+                    <p>2. Friendly Rivalry</p>
+                    <p>3. The Devil Judge</p>
+                    <p>4. Duty After School</p>
+                    <p>5. Bad and Crazy</p>
+                    <p>6. So Not Worth IT</p>
+                    <p>7. Revenge of Others</p>
+                    <p>8. All Of Us Are Dead</p>
+                </li>
+            </ul>
+        </section>
+        <section id="projects">
+            <ul>
+                <li>
+                    <h4>Projects</h4>
+                    <p>1. All About Me</p>
+                    <p>2. Physical Science Video Presentation</p>
+                    <p>3. 21st Century Video Presentation</p>
+                    <p>4. Reading and Wrting Big Book</p>
+                </li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h3>Contact Me!</h3>
+            <p>Facebook: Jamellah Andrea</p>
+            <p>Instagram: jah._.jam</p>
+            <p>Twitter/X: @private_dni</p>
+            <p>Telegram:@jah_mrqz</p>
+            <p>Email: jamellahandrea09@gmail.com</p>
+            <p>Phone: 09617023168</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Jamellah Marquez</p>
