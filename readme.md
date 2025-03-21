@@ -20,7 +20,8 @@
   </head>
     <header> 
         <h1>Jah's portfolio</h1>
-        <img src="c:\Users\user\Desktop\Jah\Jamellah.jpg"width="200" 
+        <img src="![Jamellah](https://github.com/user-attachments/assets/6df9b510-095a-418e-946e-d8178f47e5cc)
+"width="200" 
         style=""float:rigth;margin-left:1rem;>
             <h1>Welcome to my Portfolio!</h>
         </section>
@@ -107,3 +108,5 @@
     </main>
     <footer>
         <p>&copy; 2025 Jamellah Marquez</p>
+
+
