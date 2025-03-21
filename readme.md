@@ -1,26 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Online Portfolio</title>
-    <style>
-      body { 
-        font-family: sans-serif;
-        line-height: 1.6;
-        background-color: pink;
-        color: blue rgb (55,0,255);
-        }
-      header {
-        text-align: center;
-        margin: 5;
-        }
-      section {
-        margin-bottom: 5;
-        }
-    </style>
-  </head>
     <header> 
         <h1>Jah's portfolio</h1>
-        <img src="![Jamellah](https://github.com/user-attachments/assets/6df9b510-095a-418e-946e-d8178f47e5cc)
+        <img src="alt 
 "width="200" 
         style=""float:rigth;margin-left:1rem;>
             <h1>Welcome to my Portfolio!</h>
@@ -108,5 +90,5 @@
     </main>
     <footer>
         <p>&copy; 2025 Jamellah Marquez</p>
-
+        
 
