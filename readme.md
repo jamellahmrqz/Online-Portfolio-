@@ -2,8 +2,7 @@
 <html lang="en">
     <header> 
         <h1>Jah's portfolio</h1>
-        <img src="alt 
-"width="200" 
+        <img src="Jamellah.jpg"width="200" 
         style=""float:rigth;margin-left:1rem;>
             <h1>Welcome to my Portfolio!</h>
         </section>
